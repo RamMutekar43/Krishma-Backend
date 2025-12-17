@@ -8,7 +8,6 @@ import datetime
 import random
 import requests  # Added for Telegram
 
-
 # ---------- ADDED IMPORTS FOR FORECASTING ----------
 import pandas as pd
 import numpy as np
