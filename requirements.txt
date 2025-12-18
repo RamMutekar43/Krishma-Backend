@@ -5,4 +5,5 @@ python-dotenv
 Werkzeug
 pandas
 scikit-learn 
+tensorflow
 requests
